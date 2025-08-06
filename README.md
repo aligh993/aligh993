@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi👋, I'm Ali Ghanbari</h1>
 
 
 <p align="left">As an Artificial Intelligence Engineer and a seasoned Python & Android Developer, I specialize in designing and implementing advanced AI, Computer Vision, and Image Processing solutions. With 6.5 years of professional experience, I have a proven track record of creating robust and intelligent software solutions for complex industrial challenges.<br><br>My expertise shines in projects for major industrial complexes like Esfahan's Mobarakeh Steel Company (the largest steel maker in MENA) and Hormozgan's Steel Company. Here, I've leveraged Python to design and implement critical computer vision systems for monitoring employee performance and industrial machinery, resulting in enhanced operational efficiency and insightful data. My work includes analyzing production data using statistical and machine learning algorithms to improve productivity and reduce manufacturing costs, and developing full-process steelmaking simulations.<br><br>My Master's degree in Artificial Intelligence and Robotics from Islamic Azad University provides a strong academic foundation, complemented by a passion for transforming complex data into actionable insights. I'm committed to continuous learning, regularly undertaking advanced deep learning and data science courses. I am driven by a passion for innovation in AI and robotics, constantly seeking opportunities to develop cutting-edge solutions that drive efficiency and growth.</p>
@@ -85,9 +85,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aligh993.aligh993&"  />
-</div>
+<p align="center">
+    I would be happy if you check my repositories and give me a star if you like it. 🌟
+</p>
 
 ###
 
@@ -100,11 +100,19 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aligh993.aligh993&"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ali-ghanbari-10aa30b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:alighanbari446@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />

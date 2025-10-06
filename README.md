@@ -5,10 +5,6 @@
 
 ###
 
-<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -121,6 +117,18 @@
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" height="140" alt="Snake animation" />
+</p>
+
+###
+
+<!-- Thank You Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&duration=3000\&pause=1000\&color=5EB4FF\&center=true\&vCenter=true\&width=435\&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer" />
+</p>
 
 <!--
 ## Hi there 👋

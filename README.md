@@ -100,8 +100,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aligh993.aligh993&"  />
 </div>
 
-###
-
 <p align="center">
   <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" height="140" alt="Snake animation" />
 </p>

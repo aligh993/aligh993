@@ -3,7 +3,7 @@
 
 <p align="left">I’m an Artificial Intelligence Engineer and Python Developer with over 7+ years of professional experience building intelligent solutions in Computer Vision, Image Processing, and Industrial Automation. I specialize in designing AI systems that turn complex data into actionable insights and drive real-world impact.
 
-I’ve led key AI and computer vision projects for Esfahan's Mobarakeh Steel Company (the largest steel producer in MENA) and Hormozgan Steel Company, developing systems to monitor employee performance and machinery conditions. My work has enhanced operational efficiency, optimized production workflows, and reduced manufacturing costs. I’ve also built data-driven analytical tools, full-process steelmaking simulations, and automation platforms with intelligent reporting and notifications.
+I’ve led key AI and computer vision projects for Esfahan's Mobarakeh Steel Company (the largest steel producer in MENA), Hormozgan Steel Company and Saba Steel Company developing systems to monitor employee performance and machinery conditions. My work has enhanced operational efficiency, optimized production workflows, and reduced manufacturing costs. I’ve also built data-driven analytical tools, full-process steelmaking simulations, and automation platforms with intelligent reporting and notifications.
 
 Holding a Master’s degree in Artificial Intelligence and Robotics, I’m deeply passionate about pushing the boundaries of AI, automation, and data science. I continuously expand my expertise in deep learning and intelligent system design, with a clear goal: to create cutting-edge AI technologies that improve efficiency, empower decision-making, and shape the future of smart industries.</p>
 
